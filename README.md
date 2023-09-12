@@ -10,7 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/romain-poirrier-765ab9258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain-poirrier-765ab9258" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/polaireb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="polaireb" height="30" width="40" /></a>
+<a href="https://kaggle.com/polaireb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="polaireb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/polairep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="polairep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

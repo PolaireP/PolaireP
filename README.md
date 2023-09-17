@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">Curently studying IT at the IUT of Reims Chalons Charleville (France), I am learning IT skills with web development, Data Science and AI development. Always looking for more knowledge. Hyped by working in the field of AI and Data Science to make the world better 😁</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polairep&label=Profile%20views&color=0e75b6&style=flat" alt="polairep" /> </p>
+
 - 🌱 I’m currently learning **Harvard's CS50 introduction to AI, BUT IT in the IUT RCC**
 
 - 👨‍💻 All of my projects are available at [[soon]]([soon])
